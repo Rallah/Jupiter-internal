@@ -14,7 +14,7 @@ all things sales
 ## Internal Operations
 * [Meeting agenda/notes](https://docs.google.com/a/nuams.co/document/d/1Q0uWVLBaLJWCI05_vF0kKyM0YMQJuySjo82f0zecobI/edit)
 * [Planning + Progress Report] (https://docs.google.com/a/nuams.co/spreadsheet/ccc?key=0AsjxWWxaUy2BdFE2QzBoLUplZnN1NmxHSURRMlVaNnc#gid=5)
-* 
+
 ## Reference Documents
 * [Biz Dev stages defined] (https://docs.google.com/a/nuams.co/spreadsheets/d/1ZNhy_Q7jhNB3NTQJJYgYb5JwL8PW6H2O-wgn_AL9OYo/edit#gid=0)
 * [Workflow documents (in progress](https://docs.google.com/a/nuams.co/spreadsheets/d/1lnLxxEb7oAxq24fcsCBR94xt5vZNpyd72gqkXJ0s6OI/edit#gid=1875393439)
