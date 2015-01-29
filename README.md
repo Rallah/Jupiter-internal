@@ -4,21 +4,27 @@ all things sales
 
 
 * [Sales plan](https://)
-* [Sales Calendar](https://docs.google.com/a/nuams.co/spreadsheets/d/1fZ68m5T5ejAaVOY56VUzNkkgVK22DRlXL1TtyMYb4Ss/edit?usp=sharing) 
+* [Sales Calendar]() 
 
 ## Watch us work
 
-* [Doing](https://github.com/NuCivic/sales/issues) / [Done](https://github.com/NuCivic/sales/issues?q=is%3Aissue+is%3Aclosed)
+* [Doing](https://github.com/NuCivic/sales/issues) / 
+* [Done](https://github.com/NuCivic/sales/issues?q=is%3Aissue+is%3Aclosed)
 * [Submit a request](https://github.com/NuCivic/sales/issues/new)
 
 ### Task labels
 
 * [comms](https://github.com/NuCivic/sales/labels/comms) *(ex: )*
 
-## Operations
+## Internal Operations
 
 * [Meeting agenda/notes]()
 * [NuCivic 
+
+## Resources
+* [Acquia weekly call notes and deal tracker](https://docs.google.com/a/nuams.co/document/d/19yZ1kSUFjyjMbZNWNzeuCgcmzClVxxejqQZJVe2uIKg/edit)
+* [Acquia referral form](https://)
+* [Proposal request form](https://)
 
 ## Questions?
 
