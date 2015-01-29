@@ -3,7 +3,7 @@ all things sales
 # NuCivic Sales
 
 
-* [Sales plan](https://)
+* [Sales strategic plan Q1, 2015](https://)
 * [Sales Calendar]() 
 
 ## Watch us work
