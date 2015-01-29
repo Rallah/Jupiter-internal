@@ -24,7 +24,8 @@ all things sales
 ## Resources
 * [Acquia weekly call notes and deal tracker](https://docs.google.com/a/nuams.co/document/d/19yZ1kSUFjyjMbZNWNzeuCgcmzClVxxejqQZJVe2uIKg/edit)
 * [Acquia referral form](https://)
-* [Proposal request form](https://)
+* [Proposal request form](https://docs.google.com/a/nuams.co/forms/d/1_ZcocREM1mLSE1gQ1n3FxoPW-GP6UYLzyVHXUoWiew0/edit)
+* [Proposal response form] (https://docs.google.com/a/nuams.co/spreadsheet/ccc?key=0AsjxWWxaUy2BdHBWX2l1Wms5SWE2M05WSzIzWHVCSnc#gid=0)
 
 ## Questions?
 
