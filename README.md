@@ -18,6 +18,7 @@ all things sales
 ## Reference Documents
 * [Biz Dev stages defined] (https://docs.google.com/a/nuams.co/spreadsheets/d/1ZNhy_Q7jhNB3NTQJJYgYb5JwL8PW6H2O-wgn_AL9OYo/edit#gid=0)
 * [Workflow documents (in progress](https://docs.google.com/a/nuams.co/spreadsheets/d/1lnLxxEb7oAxq24fcsCBR94xt5vZNpyd72gqkXJ0s6OI/edit#gid=1875393439)
+* [Using Pipedrive] (https://drive.google.com/drive/u/2/#folders/0B1Z4HMI7C1J9alI1OHEzcS1LOVE/0B-nu2kYrx79_eDRGR2UxOTlSUmM/0B-nu2kYrx79_MENjN3BQdzdQdDg/0B-nu2kYrx79_UXd3ZDV5MEo1M1U/0B8jxWWxaUy2BUmpfUlBsWVJwN0U/0B8jxWWxaUy2BYWtxWTNCaktMWjQ)
 
 ## Resources
 * [Acquia weekly call notes and deal tracker](https://docs.google.com/a/nuams.co/document/d/19yZ1kSUFjyjMbZNWNzeuCgcmzClVxxejqQZJVe2uIKg/edit)
