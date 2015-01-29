@@ -3,7 +3,7 @@ all things sales
 # NuCivic Sales
 
 
-* [Sales plan](https://docs.google.com/a/nuams.co/document/d/1Y-E0uwn39_FafMU4iZBINbc65xWiUdRDk9OKeC-mXJk/edit?usp=sharing)
+* [Sales plan](https://)
 * [Sales Calendar](https://docs.google.com/a/nuams.co/spreadsheets/d/1fZ68m5T5ejAaVOY56VUzNkkgVK22DRlXL1TtyMYb4Ss/edit?usp=sharing) 
 
 ## Watch us work
