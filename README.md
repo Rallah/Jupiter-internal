@@ -18,8 +18,8 @@ all things sales
 
 ## Internal Operations
 
-* [Meeting agenda/notes]()
-* [NuCivic 
+* [Meeting agenda/notes](https://docs.google.com/a/nuams.co/document/d/1Q0uWVLBaLJWCI05_vF0kKyM0YMQJuySjo82f0zecobI/edit)
+
 
 ## Resources
 * [Acquia weekly call notes and deal tracker](https://docs.google.com/a/nuams.co/document/d/19yZ1kSUFjyjMbZNWNzeuCgcmzClVxxejqQZJVe2uIKg/edit)
