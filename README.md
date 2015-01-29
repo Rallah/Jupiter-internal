@@ -23,6 +23,7 @@ all things sales
 * [Acquia referral form](http://go.acquia.com/deal-reg.html)
 * [Proposal request form](https://docs.google.com/a/nuams.co/forms/d/1_ZcocREM1mLSE1gQ1n3FxoPW-GP6UYLzyVHXUoWiew0/edit)
 * [Proposal response form](https://docs.google.com/a/nuams.co/spreadsheet/ccc?key=0AsjxWWxaUy2BdHBWX2l1Wms5SWE2M05WSzIzWHVCSnc#gid=0)
+* [Proposal templates library](  )
 
 ## Questions?
 * Slack: [#sales-bizdev](https://nucivic.slack.com/messages/sales-bizdev/)
