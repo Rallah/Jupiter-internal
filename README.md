@@ -7,12 +7,13 @@ all things sales
 * [Sales Calendar]() 
 
 ## Watch us work
-* [Doing](https://github.com/NuCivic/sales/issues) / 
+* [Doing](https://github.com/NuCivic/sales/issues) 
 * [Done](https://github.com/NuCivic/sales/issues?q=is%3Aissue+is%3Aclosed)
 * [Submit a request](https://github.com/NuCivic/sales/issues/new)
 
 ## Internal Operations
 * [Meeting agenda/notes](https://docs.google.com/a/nuams.co/document/d/1Q0uWVLBaLJWCI05_vF0kKyM0YMQJuySjo82f0zecobI/edit)
+* [Biz Dev stages defined] (https://docs.google.com/a/nuams.co/spreadsheets/d/1ZNhy_Q7jhNB3NTQJJYgYb5JwL8PW6H2O-wgn_AL9OYo/edit#gid=0)
 * [Workflow documents (in progress](https://docs.google.com/a/nuams.co/spreadsheets/d/1lnLxxEb7oAxq24fcsCBR94xt5vZNpyd72gqkXJ0s6OI/edit#gid=1875393439)
 
 ## Resources
