@@ -19,6 +19,7 @@ all things sales
 ## Internal Operations
 
 * [Meeting agenda/notes](https://docs.google.com/a/nuams.co/document/d/1Q0uWVLBaLJWCI05_vF0kKyM0YMQJuySjo82f0zecobI/edit)
+* [Workflow documents (in progress](https://docs.google.com/a/nuams.co/spreadsheets/d/1lnLxxEb7oAxq24fcsCBR94xt5vZNpyd72gqkXJ0s6OI/edit#gid=1875393439)
 
 
 ## Resources
