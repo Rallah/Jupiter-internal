@@ -12,6 +12,7 @@ all things sales
 
 ## Internal Operations
 * [Weekly meeting agendas/notes](https://docs.google.com/a/nuams.co/document/d/1Q0uWVLBaLJWCI05_vF0kKyM0YMQJuySjo82f0zecobI/edit)
+* [Andrew / J weekly coworking agendas/notes](https://docs.google.com/a/nuams.co/document/d/1kLdyJ4gUYyexVD4SlaDlLTgRFRG5umJz-Mr6Aa8PaN8/edit)
 * [Planning + Progress Report](https://docs.google.com/a/nuams.co/spreadsheet/ccc?key=0AsjxWWxaUy2BdFE2QzBoLUplZnN1NmxHSURRMlVaNnc#gid=5)
 
 ## Reference Documents and Resources
