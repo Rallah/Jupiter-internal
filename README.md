@@ -3,7 +3,7 @@ all things sales
 # NuCivic Sales
 
 
-* [Sales strategic plan Q1, 2015](https://)
+* [Sales strategic plan Q1, 2015](https://docs.google.com/a/nuams.co/document/d/15WGN8DCRAXhogIhq0E727wG_2bouNW4T5zJUnHqyVgs/edit)
 
 ## Watch us work
 * [Doing](https://github.com/NuCivic/sales/issues) 
