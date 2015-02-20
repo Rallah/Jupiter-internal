@@ -4,6 +4,7 @@ all things sales
 
 
 * [Sales strategic plan Q1, 2015](https://docs.google.com/a/nuams.co/document/d/15WGN8DCRAXhogIhq0E727wG_2bouNW4T5zJUnHqyVgs/edit)
+* [Solutions and Services Outline](https://docs.google.com/a/nuams.co/document/d/1ek0ya341ABlcl49CYnyg0wrofIHosWg5ryVJm6AE2JU/edit#heading=h.dnwh8tfujk04)
 
 ## Watch us work
 * [Doing](https://github.com/NuCivic/sales/issues) 
