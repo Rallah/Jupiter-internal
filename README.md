@@ -29,6 +29,7 @@ all things sales
 * [Proposal request form](https://docs.google.com/a/nuams.co/forms/d/1_ZcocREM1mLSE1gQ1n3FxoPW-GP6UYLzyVHXUoWiew0/edit)
 * [Proposal response form](https://docs.google.com/a/nuams.co/spreadsheet/ccc?key=0AsjxWWxaUy2BdHBWX2l1Wms5SWE2M05WSzIzWHVCSnc#gid=0)
 * [Proposal templates library](  )
+* [Open Data Template](https://docs.google.com/a/nuams.co/document/d/1z7hl8IXvC5HDZ7F2h-LdirhBGq-3j7gHJVLu2pBHhC8/edit)
 
 ## Questions?
 * Slack: [#sales-bizdev](https://nucivic.slack.com/messages/sales-bizdev/)
