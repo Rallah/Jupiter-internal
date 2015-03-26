@@ -8,6 +8,7 @@ all things sales
 * [NuCivic Products, Services, Solutions (beta)](https://docs.google.com/a/nuams.co/document/d/1l0tqzJf2FHGGXetv5K9OGcQqszG2KUEGuh9cnysxDC0/edit#heading=h.dnwh8tfujk04)
 * [NuCivic Products Guide (New draft-January 2015)](https://docs.google.com/a/nuams.co/document/d/1LJsnU-gls3CDs7wlYJmj0VNV4ngw7MW4aRujlijkk64/edit#)
 
+
 ## Watch us work
 * [Doing](https://github.com/NuCivic/sales/issues) 
 * [Done](https://github.com/NuCivic/sales/issues?q=is%3Aissue+is%3Aclosed)
